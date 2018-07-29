@@ -1,0 +1,7 @@
+C:\Users\migs\Documents\Visual Studio 2008\Projects\LoRaWANConsole\LoRaWANConsole\bin\Debug\LoRaWANConsole.exe
+C:\Users\migs\Documents\Visual Studio 2008\Projects\LoRaWANConsole\LoRaWANConsole\bin\Debug\LoRaWANConsole.pdb
+C:\Users\migs\Documents\Visual Studio 2008\Projects\LoRaWANConsole\LoRaWANConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\migs\Documents\Visual Studio 2008\Projects\LoRaWANConsole\LoRaWANConsole\obj\Debug\LoRaWANConsole.exe
+C:\Users\migs\Documents\Visual Studio 2008\Projects\LoRaWANConsole\LoRaWANConsole\obj\Debug\LoRaWANConsole.pdb
+E:\_migs\R&D\SWE\Custom Programs\C#_Projects\LoRa WAN\LoRaWANConsole\LoRaWANConsole\obj\Debug\LoRaWANConsole.exe
+E:\_migs\R&D\SWE\Custom Programs\C#_Projects\LoRa WAN\LoRaWANConsole\LoRaWANConsole\obj\Debug\LoRaWANConsole.pdb
